@@ -10,11 +10,11 @@
     "indentGuide.background": "#8fa0b633",
     "indentGuide.activeBackground": "#8fa0b655",
     "editorGroupHeader.tabs.background": "#0e1622",
-    "editorGroupHeader.border": "#0e1622",
+    "editorGroupHeader.border": "#8fa0b622",
     "editor.lineHighlightBorder": "#00000000",
     "editorWidget.background": "#0e1622",
     "editorWidget.foreground": "#8fa0b6cc",
-    "editorWidget.border": "#8fa0b644",
+    "editorWidget.border": "#8fa0b622",
     "activityBar.background": "#0e1622",
     "activityBar.foreground": "#8fa0b6",
     "activityBar.activeBorder": "#8fa0b6",
@@ -64,7 +64,9 @@
       "selectionBackground": "#8fa0b644",
       "selectionForeground": "#acc6ed",
       "disabledText": "#8fa0b6",
-      "separatorColor": "#8fa0b644"
+      "separatorColor": "#8fa0b644",
+      "windowBorder": "#8fa0b622",
+      "borderColor": "#8fa0b622"
     },
     "ActionButton": {
       "hoverBackground": "#8fa0b60f",
